@@ -18,6 +18,7 @@
         "./src/*"
       ]
     },
+    "rootDir": "./src",
     "incremental": true,
     "forceConsistentCasingInFileNames": true,
     "skipLibCheck": true,
