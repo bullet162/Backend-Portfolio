@@ -1,5 +1,4 @@
 import { Injectable } from '@nestjs/common';
-import { IsEmail, IsNotEmpty, IsNumber, IsString, Matches } from 'class-validator';
 import { UserDTO } from './DTO/user.DTO';
 
 @Injectable()
